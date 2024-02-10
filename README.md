@@ -1,2 +1,0 @@
-# django.nv
-django.nv
